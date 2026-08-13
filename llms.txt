@@ -1,0 +1,23 @@
+﻿#  | Valora Support
+
+> Valora Stores is one of many store-based establishments on the Roblox platform. We strive to provide a realistic, interactive, and welcoming experience for all.
+
+- [👋 Welcome!](https://support.valora.firxd.me/index.md): 👋 Welcome!
+
+## Guides
+
+- [Points Guide](https://support.valora.firxd.me/guides/points-guide.md): TOC
+- [Punishment Guide](https://support.valora.firxd.me/guides/punishment-guide.md): TOC
+- [TSA Admin Guide](https://support.valora.firxd.me/guides/admin-guide.md): Valora Gateway (More commonly known as TSA) is Valora's administrative system and anti-exploit, custom developed by FirXD and Pixel Softworks. TSA takes the form of a Discord bot, Roblox module, and a private administrative web panel.
+
+## Staff Information
+
+- [Policies](https://support.valora.firxd.me/staff-information/policies.md): Here, community members can find some of Valora's policies.
+- [Shift & Training Times](https://support.valora.firxd.me/staff-information/session-times.md): Here, staff members can find all of RoSCO's shift and training session times.
+- [Staff Promotions](https://support.valora.firxd.me/staff-information/staff-promotions.md): This guide will outline all of the necessary information regarding promotions at Valora. Keep in mind that promotions are a privilege, not a right.
+- [Store Jobs](https://support.valora.firxd.me/staff-information/staff-jobs.md): This guide will outline the many departments Valora staff members are permitted to work at, along with in-depth instructions on how to provide guests with the most pleasant experience possible.
+
+## Tickets
+
+- [Ticket Creation Reasons](https://support.valora.firxd.me/tickets/ticket-creation-reasons.md): TOC
+- [Player Report Format](https://support.valora.firxd.me/tickets/player-report-format.md): When creating a ticket for a player report, community members should use the format found below. Any player report not following the format will be ignored.
