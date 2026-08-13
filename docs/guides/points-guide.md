@@ -18,7 +18,7 @@ categories:
 
 1. TOC
 
-RoSCO provides players with an alternative to ranking up, which is through our points system. Players may earn points by completing certain tasks or purchasing them with Robux. Players who are planning to/have already purchased points are strongly encouraged to read through this guide carefully.
+Valora provides players with an alternative to ranking up, which is through our points system. Players may earn points by completing certain tasks or purchasing them with Robux. Players who are planning to/have already purchased points are strongly encouraged to read through this guide carefully.
 
 ## Points Policy
 

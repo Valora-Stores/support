@@ -1,35 +1,32 @@
 input: ./docs
 output: .retype
 
-url: https://rosco.support.firxd.me
+url: https://support.valora.firxd.me
 
 branding:
-  # title: RoSCO Support
-  logo: /static/assets/rosco_logo_dark.png
-  logoDark: /static/assets/rosco_logo.png
+  title: Valora Support
+  # logo: /static/assets/rosco_logo_dark.png
+  # logoDark: /static/assets/rosco_logo.png
 
 links:
   - text: Discord Server
-    link: https://discord.gg/xrpSdHxS9e
+    link: https://discord.gg/VA6zawDnhN
     icon: comment-discussion
     target: blank
 
-# edit:
-#   repo: "https://github.com/WhitehillGroup/support/edit/"
-
 meta:
-  title: " | RoSCO"
+  title: " | Valora Support"
 
 footer:
-  copyright: "&copy; {{ year }} RoSCO & Contributors."
+  copyright: "&copy; {{ year }} Valora & Contributors."
 
   links:
     - text: Service Status
-      link: https://rosco.status.firxd.me
+      link: https://status.valora.firxd.me
       icon: meter
       target: blank
 
     - text: Contribute
-      link: https://github.com/RoSCO-Corporation/support
+      link: https://github.com/Valora-Stores/support
       icon: mark-github
       target: blank

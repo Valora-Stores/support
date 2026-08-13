@@ -12,14 +12,14 @@ categories:
   - Policies
 ---
 # Policies
-Here, community members can find some of RoSCO's policies.
+Here, community members can find some of Valora's policies.
 
 ## Table of Contents
 
 1. TOC
 
 ## Points Policy
-RoSCO offers players with an opportunity to claim ranks through a points system. Players may earn points by completing certain tasks or purchasing them with Robux.
+Valora offers players with an opportunity to claim ranks through a points system. Players may earn points by completing certain tasks or purchasing them with Robux.
 
 **Prior to earning or purchasing points, here are some things to keep in mind:**
 * Lying about rank purchases or faking evidence of purchased points will result in a **permanent ban.** 
@@ -33,7 +33,7 @@ If a player has been demoted for any reason, they may not reclaim the rank they 
 
 ## Strike Policy
 **Please note the following:**
-* Only **Junior Administrator+** can hand out strikes. 
+* Only **Junior Corporate+** can hand out strikes. 
 * Strikes are **permanent.** Once assigned, they cannot be removed.
 * Receiving **three** strikes results in a demotion one rank down. 
 * Reranks are not offered once administrative action has taken place. Players are more than welcome to work their way back up.
@@ -41,15 +41,15 @@ If a player has been demoted for any reason, they may not reclaim the rank they 
 ## Resignation Policy
 Resignations are final for all ranks. Reranks are not offered if a player changes their mind. SHRs encourage players to think over resignations carefully, as they are ultimately irreversible. 
 
-Please keep in mind that SHRs **can** return to RoSCO in certain circumstances. 
+Please keep in mind that SHRs **can** return to Valora in certain circumstances. 
 
 ## Rank Transfer Policy 
-Staff members are allowed to transfer their rank onto another account. This may only be done once. If one wishes to do so, they may open a ticket in the RoSCO communications server. 
+Staff members are allowed to transfer their rank onto another account. This may only be done once. If one wishes to do so, they may open a ticket in the Valora communications server. 
 
 Players may not transfer their rank onto another account if they have been hacked or banned by Roblox. Additionally, blacklisted and permanently banned players may not use the ";switchacc" command to bypass a punishment.
 
 ## Hacked Policy 
-RoSCO does not offer rank transfers if an account has been hacked. It is expected that players keep their accounts safe and secure. Staff members are fully responsible for their own accounts.
+Valora does not offer rank transfers if an account has been hacked. It is expected that players keep their accounts safe and secure. Staff members are fully responsible for their own accounts.
 
 If a staff member's account has been compromised, they must inform an SHR through a ticket immediately.
 
@@ -59,7 +59,7 @@ If a staff member's account has been compromised, they must inform an SHR throug
 If an SHR is investigating a staff member or a community member, the SHR has the right to demote that player to Customer until the investigation is complete. The SHR also has the right to remove any Discord role(s) from the player while the investigation is in-progress. Once the investigation is complete, the SHR will either rerank or take appropriate action on the player(s) involved. Additionally, SHRs who are investigating staff members or community members have the right to ask questions, which those involved must answer truthfully. Lastly, SHRs are not required to provide evidence to the players undergoing investigation.
 
 ## Refund Policy
-RoSCO does not offer refunds for **any** purchases. Prior to purchasing any of our products, including points, in-game cash, and game passes, keep this policy in mind.
+Valora does not offer refunds for **any** purchases. Prior to purchasing any of our products, including points, in-game cash, and game passes, keep this policy in mind.
 
 ## Alternate Account Policy
-Staff members may use alternate accounts to roleplay as a Customer, LR, or MR. However, staff members may not obtain an HR rank in any way on an alternate account.  Failure to abide by RoSCO's guidelines on an alternate account will result in consequences for both accounts. Additionally, players who use an alternate account to bypass a blacklist or permanent ban will be permanently banned.
+Staff members may use alternate accounts to roleplay as a Customer, LR, or MR. However, staff members may not obtain an HR rank in any way on an alternate account.  Failure to abide by Valora's guidelines on an alternate account will result in consequences for both accounts. Additionally, players who use an alternate account to bypass a blacklist or permanent ban will be permanently banned.

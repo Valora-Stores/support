@@ -13,7 +13,7 @@ categories:
   - Info
 ---
 # Store Jobs
-This guide will outline the many departments RoSCO staff members are permitted to work at, along with in-depth instructions on how to provide guests with the most pleasant experience possible.
+This guide will outline the many departments Valora staff members are permitted to work at, along with in-depth instructions on how to provide guests with the most pleasant experience possible.
 
 ## Table of contents
 
@@ -29,9 +29,9 @@ While on duty, staff members are expected to work. This includes working at a st
 
 ### POS Systems
 
-The POS systems are located in RoSCO's cafe and pharmacy. 
+The POS systems are located in Valora's cafe. 
 
-**Step 1:** Staff members should approach a POS system that is not in use and scan their RoSCO Staff Card to sign in.
+**Step 1:** Staff members should approach a POS system that is not in use and scan their Valora Staff Card to sign in.
 
 **Step 2:** Upon making the requested items, scan them against the POS terminal. Doing so will take away the items from the staff member's inventory.
 
@@ -57,40 +57,7 @@ The registers are the main job at the store. All staff must be able to know how 
 
 **Step 4:** Remind the customer to scan their Cash Card on the payment screen.
 
-**Step 5:** Once the payment has successfully gone through, thank the customer for shopping at RoSCO and remind them to come again soon.
-
-### Hotel
-The Hotel is one of the many store departments. Customers can choose a suite of their preference.
-
-**Step 1:** Customers will approach the staff member with their request. Make sure to welcome them with a detailed and polite greeting.
-
-**Step 2:** Click the 'Check in' GUI on the screen.
-
-**Step 3:** From the home screen, press the check in button (left), enter the customer's username, and select the 'Room Type' they prefer. Finally, click 'Confirm'. To check someone out, press the check out button (right), enter the customer's username, and click 'Confirm'.
-
-**Step 4:** Once the customer has received their room key, remind them to enjoy the rest of their day.
-
-### Pharmacy
-
-The pharmacy is one of the many store departments. Customers can get medicine at it.
-
-**Step 1:** Customers will approach the pharmacist at their pharmacy station. Make sure to welcome them with a detailed and polite greeting. 
-
-**Step 2:** Once the customer has selected what medicine they want, it will be your job to find it. Click on the medicine behind you.
-
-**Step 3:** Follow the [POS Systems guidance](https://support.rosco.firxd.me/staff-information/store-jobs).
-
-**Step 4:** Thank the customer for shopping at RoSCO's pharmacy and remind them to come again soon.
-
-### Vision Center
-
-The Vision Center is one of the many store departments. The Vision Center is located in the pharmacy. Customers can receive a consultation on vision wear. 
-
-**Step 1:** Customers will approach a staff member with their vision issues. Make sure to welcome them with a detailed and polite greeting.
-
-**Step 2:** Lead the customer to the glasses display. Have them choose which glasses they prefer most.
-
-**Step 3:** Remind the customer to enjoy the rest of their day. 
+**Step 5:** Once the payment has successfully gone through, thank the customer for shopping at Valora and remind them to come again soon.
 
 ### Cafe
 
@@ -100,13 +67,13 @@ The cafe is one of the many store departments. Customers can come here to relax 
 
 **Step 2:** After the customer selects their items, it will be the barista's job to prepare them. Head over to the counter behind the cafe stations and make the requested items.
 
-**Step 3:** Follow the [POS Systems guidance](https://support.rosco.firxd.me/staff-information/store-jobs).
+**Step 3:** Follow the [POS Systems guidance](https://support.valora.firxd.me/staff-information/store-jobs).
 
 **Step 4:** Once the customer has received their requested items, thank them for visiting the cafe and remind them to come again soon.
 
 ### Security
 
-**Step 1:** Upon joining the server, head over to the security uniform. Wear the uniform by stepping on the rectangle below it. Equip the cuffs by pressing and holding the 'E' key (or touch on mobile). IMPORTANT: Players may only work as security if they have access to cuffs. Junior Associate+ may purchase cuffs for 500 Robux. 
+**Step 1:** Upon joining the server, head over to the security uniform. Wear the uniform by stepping on the rectangle below it. Equip the cuffs by pressing and holding the 'E' key (or touch on mobile). IMPORTANT: Players may only work as security if they have access to cuffs.
 
 **Step 2:** Security staff members can cuff players who steal items from the store. If a player is found stealing an item, equip the cuffs and click on the player. After doing so, select the 'Stealing' option. Doing so will send the player to the jail. IMPORTANT: Players may not cuff trollers. Instead, contact an HR through the communications server.
 
@@ -118,7 +85,7 @@ The cafe is one of the many store departments. Customers can come here to relax 
 
 ### Cleaning
 
-Spills will randomly appear around the store. When customers leave litter, it is up to RoSCO's staff to ensure the store is appealing and welcoming for new visitors.
+Spills will randomly appear around the store. When customers leave litter, it is up to Valora's staff to ensure the store is appealing and welcoming for new visitors.
 
 **Step 1:** Grab a mop from the staff room, cafe, or pharmacy. In order to do so, walk up to the mop stand, hold 'E' (or touch on mobile), and a mop will appear in the player's inventory.
 
@@ -143,5 +110,5 @@ Items around the store will randomly go out of stock. It is our staff's responsi
 
 Supervision is the process in which Board of Directors+ oversee the store to ensure all operations run smoothly.
 
-* Only **Board of Directors+** can supervise
-* Board of Directors and Senior Board of Directors may oversee all store departments and answer any questions guests and staff members ma
+* Only **Store Manager+** can supervise
+* Store Managers & Regional Manager may oversee all store departments and answer any questions guests and staff members may have.

@@ -16,12 +16,12 @@ categories:
 
 1. TOC
 
-Tickets are used in RoSCO to report various infractions, request clarifications, and more. Below, community members can find the acceptable and unacceptable reasons to create a ticket.
+Tickets are used in Valora to report various infractions, request clarifications, and more. Below, community members can find the acceptable and unacceptable reasons to create a ticket.
 
 :::info
 - Text that is **bold** are the acceptable reasons to make a ticket. Community members should create a ticket for these reasons.
 - Text that is *italic* are the unacceptable reasons. Tickets made for these reasons will be disregarded.
-- For a more in-depth guide to punishments, refer to the [Punishment Guide](https://support.rosco.firxd.me/guides/punishment-guide).
+- For a more in-depth guide to punishments, refer to the [Punishment Guide](https://support.valora.firxd.me/guides/punishment-guide).
 :::
 
 ## Acceptable Reasons
@@ -53,7 +53,7 @@ Tickets are used in RoSCO to report various infractions, request clarifications,
 | Lack of grammar                                                                            | High Ranks    |
 | Leaking chats or confidential information                                                  |               |
 | Major death threats                                                                        |               |
-| Outdated information on an official RoSCO source                                           |               |
+| Outdated information on an official Valora source                                           |               |
 | Playing inappropriate or loud audios                                                       |               |
 | Playing with ranking sticks or misusing them                                               |               |
 | Racism                                                                                     |               |

@@ -82,23 +82,23 @@ Some things to note:
 | Reclaiming a rank while blacklisted | Permanent ban | Staff |
 | Reclaiming the same rank more than once | Permanent ban | Staff |
 | Simping for a higher rank | Permanent ban | Staff |
+| Leaking chats or confidential information | Permanent ban | Staff |
 
 ## MR+ Punishments
 
 | Action | Punishment | Applies to |
 | ------ | ---------- | ---------- |
-| Trolling/unprofessionalism at alliances | Demotion to Customer - depending on severity | Floor Supervisor+ |
-| Trolling/unprofessionalism at non-affiliated establishments | Demotion to Customer - depending on severity | Floor Supervisor+ |
-| Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively | Demotion one rank down | Floor Supervisor+ |
-| Failing to hide Kronos commands | 3 verbal warnings and then a demotion one rank down | Floor Supervisor+ |
-| Using :view on an SHR or the shift host | Verbal warning | Floor Supervisor+ |
-| Advertising in-game | Blacklist | Floor Supervisor+ |
-| Dancing/standing on elevated surfaces | Blacklist | Floor Supervisor+ |
-| Refusal to wear correct uniform | Blacklist | Floor Supervisor+ |
-| Trolling or spamming | Blacklist | Floor Supervisor+ |
-| Unprofessionalism | Blacklist | Floor Supervisor+ |
-| Abusing the warning/kick system | Permanent Ban | Floor Manager+ |
-| Leaking chats or confidential information | Permanent ban | Assistant Manager+ |
+| Trolling/unprofessionalism at alliances | Demotion to Customer - depending on severity | Junior Supervisor+ |
+| Trolling/unprofessionalism at non-affiliated establishments | Demotion to Customer - depending on severity | Junior Supervisor+ |
+| Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively | Demotion one rank down | Junior Supervisor+ |
+| Failing to hide TSA commands | 3 verbal warnings and then a demotion one rank down | Junior Supervisor+ |
+| Using :view on an SHR or the shift host | Verbal warning | Junior Supervisor+ |
+| Advertising in-game | Blacklist | Junior Supervisor+ |
+| Dancing/standing on elevated surfaces | Blacklist | Junior Supervisor+ |
+| Refusal to wear correct uniform | Blacklist | Junior Supervisor+ |
+| Trolling or spamming | Blacklist | Junior Supervisor+ |
+| Unprofessionalism | Blacklist | Junior Supervisor+ |
+| Abusing the warning/kick system | Permanent Ban | Store Supervisor+ |
 
 ## HR+ Punishments
 
@@ -110,5 +110,5 @@ Some things to note:
 | Hosting an unofficial shift or training session | Blacklist | High Ranks |
 | Abusing the group shout | Verbal warning or permanent ban | High Ranks |
 | Claiming an HR rank after resigning or being reformed | Permanent ban | High Ranks |
-| Playing with ranking sticks or misusing them | Demotion one rank down | Board of Directors+ |
-| Free ranking | Permanent ban | Board of Directors+ |
+| Playing with ranking sticks or misusing them | Demotion one rank down | Store Manager+ |
+| Free ranking | Permanent ban | Store Manager+ |
