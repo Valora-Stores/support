@@ -47,22 +47,22 @@
     <loc>https://support.valora.firxd.me/tags/</loc>
   </url>
   <url>
-    <loc>https://support.valora.firxd.me/categories/ranks/</loc>
-  </url>
-  <url>
     <loc>https://support.valora.firxd.me/categories/staff/</loc>
   </url>
   <url>
-    <loc>https://support.valora.firxd.me/tags/guides/</loc>
+    <loc>https://support.valora.firxd.me/categories/ranks/</loc>
   </url>
   <url>
     <loc>https://support.valora.firxd.me/tags/staff-info/</loc>
   </url>
   <url>
-    <loc>https://support.valora.firxd.me/categories/guides/</loc>
+    <loc>https://support.valora.firxd.me/tags/guides/</loc>
   </url>
   <url>
     <loc>https://support.valora.firxd.me/categories/info/</loc>
+  </url>
+  <url>
+    <loc>https://support.valora.firxd.me/categories/guides/</loc>
   </url>
   <url>
     <loc>https://support.valora.firxd.me/tags/tickets/</loc>
@@ -77,6 +77,9 @@
     <loc>https://support.valora.firxd.me/tags/policies/</loc>
   </url>
   <url>
+    <loc>https://support.valora.firxd.me/categories/policies/</loc>
+  </url>
+  <url>
     <loc>https://support.valora.firxd.me/categories/tsa/</loc>
   </url>
   <url>
@@ -87,8 +90,5 @@
   </url>
   <url>
     <loc>https://support.valora.firxd.me/categories/punishment/</loc>
-  </url>
-  <url>
-    <loc>https://support.valora.firxd.me/categories/policies/</loc>
   </url>
 </urlset>
