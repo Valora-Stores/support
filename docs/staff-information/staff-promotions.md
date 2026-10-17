@@ -5,8 +5,7 @@ order: 2
 tags: [Staff Info]
 authors: 
     - name: FirXD
-      link: https://github.com/FirTheDeveloper
-      avatar: https://cdn.firxd.me/u/bXraZZ.jpeg
+      avatar: https://firxd.me/42aa3ea6caecfda224a6965e587c6c3e00397fd627121276f71eed1498da9dbd.png
 categories:
   - Ranks
   - Staff
