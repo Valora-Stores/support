@@ -1,5 +1,5 @@
 # Shift & Training Times
-Here, staff members can find all of RoSCO's shift and training session times.
+Here, staff members can find all of Valora's shift and training session times.
 
 | Shift Times | 
 |:------------| 
