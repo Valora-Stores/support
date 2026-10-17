@@ -1,6 +1,6 @@
-# RoSCO Support
+# Valora Support
 
-This repository holds the source of the RoSCO support website.
+This repository holds the source of the Valora support website.
 
 ## Contributing?
 When contributing, ensure that you keep the style consistent with the other pages of the website.
