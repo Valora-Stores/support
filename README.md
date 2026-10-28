@@ -10,3 +10,5 @@ When contributing, ensure that you keep the style consistent with the other page
 - Unsure of the Markdown syntax? Click [here](https://pmarsceill.github.io/just-the-docs/docs/ui-components) for documentation.
 
 This documentation repository makes use of a library called ReType, a markdown documentation generator. Please follow its style guidelines. Icons are github octoicons.
+
+Yes, I know. This is just forked from the Whitehill Group docs, then detached from the fork network.
