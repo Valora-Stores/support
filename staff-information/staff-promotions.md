@@ -1,6 +1,6 @@
 # Staff Promotions
 {: .no_toc }
-This guide will outline all of the necessary information regarding promotions at Valora. Keep in mind that promotions are a privilege, not a right.
+This guide will outline all of the necessary information regarding promotions at Valora Stores. Keep in mind that promotions are a privilege, not a right. The Human Resources department keeps records of all redeemed points, which will be used if an investigation should take place.
 
 ## Table of contents
 {: .no_toc .text-delta }
