@@ -1,4 +1,4 @@
-Valora Gateway (More commonly known as TSA) is Valora's administrative system and anti-exploit, custom developed by FirXD and Pixel Softworks. TSA takes the form of a Discord bot, Roblox module, and a private administrative web panel. Those with TSA permissions can utilize these to perform their duties.
+Valora Gateway (More commonly known as TSA, or Kronos) is Valora's administrative system and anti-exploit, custom developed internally by PostedDevOfficial and Pixel Softworks. Gateway takes the form of a Discord bot, a Roblox module named Kronos, and a private administrative web panel. Those with Gateway permissions can utilize these to perform their duties.
 
 ### Commands
 {: .text-red-300 }
@@ -22,7 +22,7 @@ All members who are ranked Store Supervisor+ will gain access to various command
 | Head Corporate             | Super Admin | 
 | Director                   | Super Admin | 
 | Operations Director        | Super Admin |
-| Vice Chairman              | Super Admin | 
+| Vice Chairman              | Creator Admin | 
 | Group Chairman             | TSA Developer | 
 
 Depending on the role, certain commands can be executed. For example, users with Moderator commands **cannot** run :pban. However, players with Super Admin may.
@@ -32,7 +32,7 @@ Depending on the role, certain commands can be executed. For example, users with
 {: .no_toc }
 When executing commands, ensure they are being utilized correctly. 
 
-* TSA provides the ability to hide commands by typing "/e" in front of them.
+* Gateway provides the ability to hide commands by typing "/e" in front of them.
   * To run a command privately with the "/e" method, open up the chat to run a command per usual. After doing so, place a "/e" before the desired command.
     * EX:  **_/e :m Hello!_**
   * This will make the command private. This also makes the command hidden from the chat.
@@ -46,19 +46,19 @@ When executing commands, ensure they are being utilized correctly.
       
 ### Anti-Exploit
 {: .text-red-300 }
-As mentioned at the start of this document, TSA features a built-in anti-exploit system, named Valora AntiCheat (dubbed VAC), which keeps out exploiters. The anti-exploit system automatically permanently bans or kicks depending on the severity. 
+As mentioned at the start of this document, Gateway features a built-in anti-exploit system, named Valora AntiCheat Service (dubbed VAS), which keeps out exploiters. The anti-exploit system automatically permanently bans or kicks depending on the severity. 
 
 * All detected exploits can be viewed with the :exploitlogs command. Please do not stay under the impression that :exploitlogs will show exploiters who are currently in the server and show what they are doing. The system cannot detect everything and only logs when an exploiter is automatically banned.
-* If a player appears in :exploitlogs, there is no need to request in-game assistance, as the exploiter has more than likely been banned by the TSA anti-exploit. If an exploiter is present, contact an available HR, attempt to gather sufficient evidence, and open a ticket.
+* If a player appears in :exploitlogs, there is no need to request in-game assistance, as the exploiter has more than likely been banned by the Valora anti-exploit. If an exploiter is present, contact an available HR, attempt to gather sufficient evidence, and open a ticket.
 
 *To my friends filling out this policy on EMC:*
-Your conclusion code is TSA-EMC. Please be sure to read the rest of this policy!
+Your conclusion code is VLRA-EMC. Please be sure to read the rest of this policy!
 
 ### Downtime
 {: .text-red-300 }
 Downtime, also known to many as “THE ADMINS NOT WORKING!!!!!!!”, is a time in which a critical error has occurred within the code, stopping all commands being run, and by extension, your admin being given.
 
-Click [here](https://status.firxd.me) to view the status of various TSA services.
+Click [here](https://status.firxd.me) to view the status of various Valora services.
 
 * In this scenario, the Head Corporate+ kindly request that players do not spam ping us, DM us repeatedly, or anything of the sort when this occurs. Doing so can lead to consequences. Developers have likely been informed of the problems and are working diligently to fix them. 
 * A simple fix may just be rejoining. If a server shuts down, many players rejoining at the same time can overload the system and may cause admin loading to be delayed. For this reason, we request that players wait a few minutes before rejoining.

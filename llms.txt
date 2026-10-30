@@ -8,7 +8,7 @@
 
 - [Points Guide](https://support.valora.firxd.me/guides/points-guide.md): TOC
 - [Punishment Guide](https://support.valora.firxd.me/guides/punishment-guide.md): TOC
-- [TSA Admin Guide](https://support.valora.firxd.me/guides/admin-guide.md): Valora Gateway (More commonly known as TSA) is Valora's administrative system and anti-exploit, custom developed by FirXD and Pixel Softworks. TSA takes the form of a Discord bot, Roblox module, and a private administrative web panel.
+- [Valora Admin Guide](https://support.valora.firxd.me/guides/admin-guide.md): Valora Gateway (More commonly known as TSA, or Kronos) is Valora's administrative system and anti-exploit, custom developed internally by PostedDevOfficial and Pixel Softworks.
 
 ## Staff Information
 
