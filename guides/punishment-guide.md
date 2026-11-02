@@ -15,6 +15,7 @@ Some things to note:
 - Not knowing the rules can still lead to a punishment.
 - Some staff punishments can apply to non-staff.
 - Not all punishments are listed here. Use common sense.
+- If you break rules which aren't on here and you disturb operations, any MR+ is authorized to issue punishment(s). We take rule-breaking seriously.
 
 ## Player Punishments
 
